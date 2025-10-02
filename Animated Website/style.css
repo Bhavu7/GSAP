@@ -218,7 +218,7 @@ nav button:hover {
     border-radius: 1.5rem;
 }
 
-.elem-part1{
+.elem-part1 {
     height: 100%;
     width: 50%;
     display: flex;
@@ -227,7 +227,7 @@ nav button:hover {
     flex-direction: column;
 }
 
-.elem-part1 h2{
+.elem-part1 h2 {
     font-size: 1.5rem;
     font-weight: 600;
     width: 65%;
@@ -235,26 +235,27 @@ nav button:hover {
     font-family: NeueMachina;
     background-color: #9AE975;
     padding: 5px 5px;
-    border-radius: 0.5rem;;
+    border-radius: 0.5rem;
 }
 
-.elem-part1 h4{
+.elem-part1 h4 {
     display: flex;
     align-items: center;
     font-size: 1rem;
     font-weight: 600;
 }
 
-.elem-part2{
+.elem-part2 {
     height: 100%;
     width: 50%;
 }
 
-.elem-part2 img{
+.elem-part2 img {
     height: 100%;
+    border-radius: 1.5rem;
 }
 
-.elem-part1 h4 i{
+.elem-part1 h4 i {
     margin-right: 0.5rem;
     font-size: 1.2rem;
     color: #9AE975;
@@ -276,12 +277,12 @@ nav button:hover {
     cursor: pointer;
 }
 
-.black{
+.black {
     background-color: #000;
     color: #fff;
 }
 
-.black h2{
+.black h2 {
     font-size: 1.5rem;
     font-weight: 600;
     width: 65%;
@@ -290,14 +291,15 @@ nav button:hover {
     background-color: #fff;
     padding: 5px 5px;
     color: #000;
-    border-radius: 0.5rem;;
+    border-radius: 0.5rem;
+    ;
 }
 
-.black h4{
+.black h4 {
     color: #9AE975;
 }
 
-.black h4 i{
+.black h4 i {
     margin-right: 0.5rem;
     font-size: 1.2rem;
     color: #000;
