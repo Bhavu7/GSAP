@@ -22,6 +22,7 @@ tl.from(".services h3", { y: -30, opacity: 0, duration: 0.5 });
 tl.from(".services p", { y: -30, opacity: 0, duration: 0.4 });
 tl.from(".services .box", { y: 30, opacity: 0, duration: 0.4, stagger: 0.2 });
 
+tl.from(".elem", { y: -30, opacity: 0, duration: 0.5 });
 tl.from(".elem-part1 h2", { y: -30, opacity: 0, duration: 0.5 });
 tl.from(".elem-part1 h4", { y: -30, opacity: 0, duration: 0.4 });
 tl.from(".elem-part1 button", { y: -30, opacity: 0, duration: 0.4 });
